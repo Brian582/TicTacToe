@@ -7,7 +7,7 @@ For this project, I made a TicTacTac game using Python where you can can play ag
 Your also able to create an account to save your stats from the game or you can play as a guest.
 Stats in the game would be how many times you won/lost a game and how many games you played in total. 
 
-With SQL, I made a database that stores all the player's stats if they log in with their account. Nothing is saved when you play as a guest.
+With SQLite, I made a database that stores all the player's stats if they log in with their account. Nothing is saved when you play as a guest.
 
 When the program runs, a menu will be displayed to show all the options that are available for the program.
 
